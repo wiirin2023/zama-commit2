@@ -1,7 +1,8 @@
 # Project Helper CLI
 
-Project Helper CLI คือโปรเจกต์ตัวอย่างสำหรับจำลอง workflow จริงบน GitHub VS Code Spaces
+Project Helper CLI คือเครื่องมือแบบ Command-Line Interface (CLI) ที่ช่วยจัดการและสนับสนุนงานพัฒนาโปรเจกต์ผ่านการพิมพ์คำสั่งใน Terminal หรือ Command Prompt แทนการใช้หน้าจอแบบกราฟิก (GUI)
 
+พูดง่าย ๆ คือเป็น “ผู้ช่วยโปรเจกต์” ที่สั่งงานผ่านคำสั่ง เช่น สร้างไฟล์ ตั้งค่าโปรเจกต์ รันโปรแกรม ทดสอบโค้ด หรือ deploy ระบบ
 ## Features
 - ใช้งานผ่าน VS Code Spaces ได้
 - พัฒนาโดย Dev team เพื่อทดสอบ Git
