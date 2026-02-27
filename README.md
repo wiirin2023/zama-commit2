@@ -19,17 +19,7 @@ Project Helper CLI คือเครื่องมือแบบ Command-Line
 
 จัดการ dependencies
 
-ติดตั้งแพ็กเกจที่จำเป็น
 
-รัน / ทดสอบโปรเจกต์
-
-build, test, deploy
-
-ช่วยตั้งค่า environment
-
-สร้างไฟล์ .env
-
-ตั้งค่า database
 
 ## Developer
 This project is developed by Dev team for demo purposes only.
